@@ -21,9 +21,9 @@ to make data-driven business decisions.
 - forecast Prediction
 
 ## Key Insights
--The Walmart sales dashboard reveals that the Consumer segment and West region are the largest contributors to overall revenue. 
--Office Supplies drive the highest sales among categories, while Cash on Delivery remains the most preferred payment method. 
--Sales and profit show a steady upward trend from 2019 to 2020
+- The Walmart sales dashboard reveals that the Consumer segment and West region are the largest contributors to overall revenue. 
+- Office Supplies drive the highest sales among categories, while Cash on Delivery remains the most preferred payment method. 
+- Sales and profit show a steady upward trend from 2019 to 2020
 
 ## Dashboard Preview
 ![Dashboard Preview](https://github.com/Srushtee29/walmart-super-store-sales-dashboard-Excel-PowerBI-DAX-Query/blob/main/Snapshot%20of%20dashboard.png)
