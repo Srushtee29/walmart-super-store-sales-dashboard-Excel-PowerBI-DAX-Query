@@ -17,4 +17,4 @@ Analyzed Walmart sales data to uncover trends and business insights using Power 
 - forecast frediction 
 
 ## Dashboard Preview
-![Dashboard](Sales Dashboard.pbi)
+[Click here to view the dashboard](https://your-dashboard-link)
