@@ -17,4 +17,4 @@ Analyzed Walmart sales data to uncover trends and business insights using Power 
 - forecast frediction 
 
 ## Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Srushtee29/walmart-super-store-sales-dashboard-Excel-PowerBI-DAX-Query/blob/main/Snapshot%20of%20dashboard.png)
